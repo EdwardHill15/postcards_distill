@@ -1,6 +1,6 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Edward Hillenaar"
+image: "Ed.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
@@ -14,6 +14,4 @@ output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a classically trained data scientist living in the Netherlands in a town called Zwaag. Currently I work in my own practice as a psychologist/therapist and I'm writing a doctoral thesis on the nature and origin of consciousness. 

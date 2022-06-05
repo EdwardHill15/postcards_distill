@@ -5,6 +5,13 @@ description: |
 site: distill::distill_website
 ---
 
+```{css, echo = FALSE}
+  body: {
+  background-color: #05F9F9;
+ }
+```
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
